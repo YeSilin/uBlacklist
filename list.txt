@@ -5,6 +5,7 @@
 *://artez.org.cn/*
 *://ayjz.juergen-schmitz-consulting.de/*
 *://baijiahao.baidu.com/*
+*://blog.silucg.com/*
 *://bvwc.lumea-verlag.de/*
 *://ceji.ayotechnology.de/*
 *://cn.filedict.com/*
@@ -23,6 +24,7 @@
 *://eozy.vip-erfolgscoach.de/*
 *://fmex.women-selfdefense-regensburg.de/*
 *://gctm.shk-cux.de/*
+*://getm4.aiyanqing.com/*
 *://gjgp.mikeprange.de/*
 *://greyhoundbastards.com/*
 *://gvkv.apollostar-safari.de/*
@@ -66,11 +68,13 @@
 *://odde.felixmeier.de/*
 *://okoo.5watches.de/*
 *://omachadodomaranhao.com/*
+*://oneho.cn/*
 *://p1htmlkernalweb.mybluemix.net/*
 *://park.zunmi.cn/*
 *://pinasy.com/*
 *://probacc.com/*
 *://qcke.plameco-nett.de/*
+*://qiaofu66.blog.sohu.com/*
 *://qooqo.ru/*
 *://qzjlnm.com/*
 *://rohv.madame-creations.fr/*
@@ -99,11 +103,14 @@
 *://www.18183.com/*
 *://www.23cpc.com/*
 *://www.3333xbxb.com/*
+*://www.3li.cc/*
 *://www.6tuba.com/*
 *://www.7lg.net/*
+*://www.9999ktv.com/*
 *://www.accessoft.com/*
 *://www.ajpsp.com/*
 *://www.amazon.com/*
+*://www.bdqxgw.com/*
 *://www.bjcsjsc.com/*
 *://www.bnee.net/*
 *://www.bunian.cn/*
@@ -113,6 +120,7 @@
 *://www.codenong.com/*
 *://www.cqchildren.com/*
 *://www.darentang.org/*
+*://www.dofe.com.cn/*
 *://www.drjordanmall.com/*
 *://www.eternalcq.com/*
 *://www.fdzbfjc.com/*
@@ -142,8 +150,10 @@
 *://www.mei521.com/*
 *://www.mzgsmc.com/*
 *://www.ok168198.com/*
+*://www.pai-hang-bang.com/*
 *://www.qfjhb.cn/*
 *://www.qh24.com/*
+*://www.qu02.com/*
 *://www.right.com.cn/*
 *://www.shejiedu.com/*
 *://www.ssf.cc/*
@@ -157,6 +167,8 @@
 *://www.wcwol.com/*
 *://www.wdzj.com/*
 *://www.weiqunwang.com/*
+*://www.whstm.com/*
+*://www.xinhexinli.com/*
 *://www.xyj321.com/*
 *://www.yijyi.com/*
 *://www.ymw.cn/*
