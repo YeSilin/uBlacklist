@@ -128,6 +128,7 @@
 *://www.3333xbxb.com/*
 *://www.3li.cc/*
 *://www.58pjy.com/*
+*://www.684758.com/*
 *://www.6tuba.com/*
 *://www.7lg.net/*
 *://www.88xiao.com/*
@@ -149,6 +150,7 @@
 *://www.codenong.com/*
 *://www.cqchildren.com/*
 *://www.da-quan.net/*
+*://www.dapaizixun.com/*
 *://www.darentang.org/*
 *://www.dofe.com.cn/*
 *://www.donnaspetcare.com/*
@@ -160,6 +162,7 @@
 *://www.fsadu.org.br/*
 *://www.fxyibai.com/*
 *://www.glblkfw.com/*
+*://www.gzwcjs.com/*
 *://www.haicoder.net/*
 *://www.haimenzhichuang.com/*
 *://www.hn-hongyuan.com/*
@@ -185,6 +188,7 @@
 *://www.mzgsmc.com/*
 *://www.nbyoho.com/*
 *://www.ok168198.com/*
+*://www.oneho.cn/*
 *://www.operatoriforex.com/*
 *://www.pai-hang-bang.com/*
 *://www.q578.com/*
@@ -207,9 +211,11 @@
 *://www.wdzj.com/*
 *://www.weiqunwang.com/*
 *://www.whstm.com/*
+*://www.xiaozhishi.net/*
 *://www.xinhexinli.com/*
 *://www.xyj321.com/*
 *://www.yijyi.com/*
+*://www.yisu.com/*
 *://www.ymw.cn/*
 *://www.zhipanyou.com/*
 *://www.zui88.com/*
@@ -220,7 +226,6 @@
 *://yp.jd.com/*
 *://ywcreations.com/*
 *://zeepline.pw/*
-*://zh.wikipedia.org/*
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
 *://zrsd.schorfheidecarport.de/*
