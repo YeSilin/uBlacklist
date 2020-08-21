@@ -96,6 +96,7 @@
 *://priorityhospice.com/*
 *://probacc.com/*
 *://qcke.plameco-nett.de/*
+*://qianruntai.com/*
 *://qiaofu66.blog.sohu.com/*
 *://qooqo.ru/*
 *://qzjlnm.com/*
@@ -135,6 +136,7 @@
 *://www.600911.cn/*
 *://www.684758.com/*
 *://www.6tuba.com/*
+*://www.733mh.com/*
 *://www.7lg.net/*
 *://www.88xiao.com/*
 *://www.9999ktv.com/*
@@ -161,6 +163,7 @@
 *://www.dofe.com.cn/*
 *://www.donnaspetcare.com/*
 *://www.drjordanmall.com/*
+*://www.eddingmkt.com/*
 *://www.eternalcq.com/*
 *://www.fdzbfjc.com/*
 *://www.fengshouniao.cn/*
@@ -229,6 +232,8 @@
 *://www.zhetiaohe.com/*
 *://www.zhipanyou.com/*
 *://www.zui88.com/*
+*://www112200.com/*
+*://wwwc809.com/*
 *://xckd.hamsterkiste-deutsch.de/*
 *://xqdj.hahnbacher-fotos.de/*
 *://xrdv.rpa-cee.de/*
