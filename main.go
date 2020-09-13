@@ -161,5 +161,5 @@ func main() {
 		return
 	}
 
-	fmt.Println("更新去重成功！")
+	fmt.Println("更新去重成功！~")
 }

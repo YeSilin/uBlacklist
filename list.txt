@@ -7,6 +7,7 @@
 *://auto.epochtimes.com/*
 *://ayjz.juergen-schmitz-consulting.de/*
 *://baijiahao.baidu.com/*
+*://bbs.guaruan.com/*
 *://blog.silucg.com/*
 *://blog.wu-boy.com/*
 *://bradstreetcra.com/*
@@ -64,6 +65,7 @@
 *://m.ccdswl.com/*
 *://m.cnmmv.com/*
 *://m.copyan.com/*
+*://m.dingjisc.com/*
 *://m.ebw100.com/*
 *://m.gdyadu.com/*
 *://m.glass321.com/*
@@ -75,6 +77,7 @@
 *://m.shbingluo.com/*
 *://m.systemcity.cn/*
 *://m.yangzhiguo.com/*
+*://m.yisu.com/*
 *://m.yzlqzx.xyz/*
 *://m.zhuangku.com/*
 *://mayphatmaynen.com/*
@@ -104,6 +107,7 @@
 *://sabp.natural-born-schrubber.de/*
 *://sgub.kerstinraphahn.de/*
 *://shenzhenxw.net/*
+*://shufadashi.com/*
 *://sswhsign.com/*
 *://sxcpsjapp.org/*
 *://tfud.ffw-ellzee.de/*
@@ -124,6 +128,7 @@
 *://wncwebsolutions.com/*
 *://wsao.kerstinraphahn.de/*
 *://wthe.singende-wirte.de/*
+*://www.09vv.cn/*
 *://www.10tiao.com/*
 *://www.1688.com/*
 *://www.18183.com/*
@@ -143,6 +148,7 @@
 *://www.abcxzh.com/*
 *://www.accessoft.com/*
 *://www.aggg35.com/*
+*://www.aizhange.com/*
 *://www.ajpsp.com/*
 *://www.amazon.com/*
 *://www.anyolife.com/*
@@ -153,6 +159,7 @@
 *://www.bunian.cn/*
 *://www.buscodepto.com/*
 *://www.bzxfgj.com/*
+*://www.caogenbj.com/*
 *://www.cctsuzhou.cn/*
 *://www.codenong.com/*
 *://www.colabug.com/*
@@ -169,8 +176,11 @@
 *://www.fengshouniao.cn/*
 *://www.fenzhanwang.com/*
 *://www.fsadu.org.br/*
+*://www.fuyingdq.com/*
 *://www.fxyibai.com/*
+*://www.fydqw.com/*
 *://www.glblkfw.com/*
+*://www.guzhifa.com/*
 *://www.gzwcjs.com/*
 *://www.haicoder.net/*
 *://www.haimenzhichuang.com/*
@@ -191,6 +201,7 @@
 *://www.labellemoriniere.com/*
 *://www.lanzhouyangsheng.com/*
 *://www.lnmonet.com/*
+*://www.lzbxgmjj.com/*
 *://www.manew.com/*
 *://www.mei521.com/*
 *://www.moulin-larroque.com/*
@@ -206,6 +217,7 @@
 *://www.qu02.com/*
 *://www.right.com.cn/*
 *://www.shejiedu.com/*
+*://www.sldfc.cn/*
 *://www.ssf.cc/*
 *://www.taobao.com/*
 *://www.techhubonline.com/*
