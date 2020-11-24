@@ -79,6 +79,7 @@
 *://m.pai-hang-bang.com/*
 *://m.shbingluo.com/*
 *://m.systemcity.cn/*
+*://m.tj-book.com/*
 *://m.yangzhiguo.com/*
 *://m.yisu.com/*
 *://m.yzlqzx.xyz/*
@@ -102,6 +103,7 @@
 *://pinasy.com/*
 *://priorityhospice.com/*
 *://probacc.com/*
+*://qastack.cn/*
 *://qcke.plameco-nett.de/*
 *://qianruntai.com/*
 *://qiaofu66.blog.sohu.com/*
@@ -161,6 +163,7 @@
 *://www.anhuilife.com/*
 *://www.anyolife.com/*
 *://www.azsalon527.com/*
+*://www.baidu.com/*
 *://www.bdqxgw.com/*
 *://www.bjcsjsc.com/*
 *://www.bnee.net/*
@@ -196,6 +199,7 @@
 *://www.gzwcjs.com/*
 *://www.haicoder.net/*
 *://www.haimenzhichuang.com/*
+*://www.hanlefang.net/*
 *://www.hn-hongyuan.com/*
 *://www.hongyazi.org/*
 *://www.hotbak.net/*
@@ -220,6 +224,7 @@
 *://www.moulin-larroque.com/*
 *://www.mzgsmc.com/*
 *://www.nbyoho.com/*
+*://www.nj118114.cn/*
 *://www.ok168198.com/*
 *://www.oneho.cn/*
 *://www.operatoriforex.com/*
@@ -231,6 +236,7 @@
 *://www.right.com.cn/*
 *://www.shejiedu.com/*
 *://www.shufadashi.com/*
+*://www.shxy888.com/*
 *://www.sldfc.cn/*
 *://www.ssf.cc/*
 *://www.taobao.com/*
@@ -251,6 +257,7 @@
 *://www.whstm.com/*
 *://www.word666.com/*
 *://www.wtnc.uk.com/*
+*://www.www-4749000.com/*
 *://www.xiaozhaolaila.com/*
 *://www.xiaozhishi.net/*
 *://www.xinhexinli.com/*
@@ -270,6 +277,7 @@
 *://xqdj.hahnbacher-fotos.de/*
 *://xrdv.rpa-cee.de/*
 *://xts.m6781q.cn/*
+*://yangmao.info/*
 *://yff.hbs163.com/*
 *://yilj.programmierbare-materie.de/*
 *://yp.jd.com/*
