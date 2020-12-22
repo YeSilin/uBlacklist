@@ -115,6 +115,7 @@
 *://shenzhenxw.net/*
 *://shufadashi.com/*
 *://sswhsign.com/*
+*://stackoverrun.com/*
 *://sxcpsjapp.org/*
 *://tfud.ffw-ellzee.de/*
 *://tortortor.pw/*
@@ -173,12 +174,14 @@
 *://www.caogenbj.com/*
 *://www.cctsuzhou.cn/*
 *://www.codenong.com/*
+*://www.coder.work/*
 *://www.colabug.com/*
 *://www.cppcns.com/*
 *://www.cqchildren.com/*
 *://www.da-quan.net/*
 *://www.dapaizixun.com/*
 *://www.darentang.org/*
+*://www.dn010.com/*
 *://www.dofe.com.cn/*
 *://www.donnaspetcare.com/*
 *://www.drjordanmall.com/*
