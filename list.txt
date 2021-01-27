@@ -72,6 +72,7 @@
 *://m.gdyadu.com/*
 *://m.glass321.com/*
 *://m.isdngo.xyz/*
+*://m.jb51.net/*
 *://m.mk369.com/*
 *://m.moxingyun.com/*
 *://m.mp3suck.com/*
@@ -146,6 +147,7 @@
 *://www.3333xbxb.com/*
 *://www.3dmax8.com/*
 *://www.3li.cc/*
+*://www.3rxing.org/*
 *://www.58pjy.com/*
 *://www.600911.cn/*
 *://www.684758.com/*
@@ -153,6 +155,7 @@
 *://www.733mh.com/*
 *://www.7lg.net/*
 *://www.88xiao.com/*
+*://www.8hhi.com/*
 *://www.9999ktv.com/*
 *://www.abcxzh.com/*
 *://www.accessoft.com/*
@@ -173,6 +176,7 @@
 *://www.bzxfgj.com/*
 *://www.caogenbj.com/*
 *://www.cctsuzhou.cn/*
+*://www.cnblogs.com/*
 *://www.codenong.com/*
 *://www.coder.work/*
 *://www.colabug.com/*
@@ -181,6 +185,7 @@
 *://www.da-quan.net/*
 *://www.dapaizixun.com/*
 *://www.darentang.org/*
+*://www.ddhyl.cn/*
 *://www.dn010.com/*
 *://www.dofe.com.cn/*
 *://www.donnaspetcare.com/*
@@ -203,6 +208,7 @@
 *://www.haicoder.net/*
 *://www.haimenzhichuang.com/*
 *://www.hanlefang.net/*
+*://www.hibbba.com/*
 *://www.hn-hongyuan.com/*
 *://www.hongyazi.org/*
 *://www.hotbak.net/*
@@ -210,6 +216,7 @@
 *://www.ispsd2015.com/*
 *://www.itjie.com/*
 *://www.jamogram.com/*
+*://www.javaer101.com/*
 *://www.jb51.net/*
 *://www.jbzj.com/*
 *://www.jcabc.cn/*
@@ -222,6 +229,7 @@
 *://www.lanzhouyangsheng.com/*
 *://www.lnmonet.com/*
 *://www.lzbxgmjj.com/*
+*://www.maishuini.com/*
 *://www.manew.com/*
 *://www.mei521.com/*
 *://www.moulin-larroque.com/*
@@ -239,9 +247,11 @@
 *://www.right.com.cn/*
 *://www.shejiedu.com/*
 *://www.shufadashi.com/*
+*://www.shuzhiduo.com/*
 *://www.shxy888.com/*
 *://www.sldfc.cn/*
 *://www.ssf.cc/*
+*://www.ssfiction.com/*
 *://www.taobao.com/*
 *://www.techhubonline.com/*
 *://www.tongfengqu.com/*
@@ -269,7 +279,9 @@
 *://www.yisu.com/*
 *://www.ymw.cn/*
 *://www.yuanmas.com/*
+*://www.yunmeibeijing.com/*
 *://www.yyyyv.cn/*
+*://www.zdexe.com/*
 *://www.zhangshengrong.com/*
 *://www.zhetiaohe.com/*
 *://www.zhipanyou.com/*
