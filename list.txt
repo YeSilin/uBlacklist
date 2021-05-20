@@ -49,6 +49,7 @@
 *://iamlishuo.com/*
 *://ipkm.schuetzenbedarf-baur.de/*
 *://iter01.com/*
+*://j.17qq.com/*
 *://jdzl.v3ng.de/*
 *://jisuc.com/*
 *://jjtk.lebenszeichen-fuerdieewigkeit.de/*
@@ -158,6 +159,7 @@
 *://www.3li.cc/*
 *://www.3rxing.org/*
 *://www.51dongshi.com/*
+*://www.51huandian.com/*
 *://www.58pjy.com/*
 *://www.600911.cn/*
 *://www.684758.com/*
@@ -188,6 +190,7 @@
 *://www.bzxfgj.com/*
 *://www.caogenbj.com/*
 *://www.cctsuzhou.cn/*
+*://www.chac.org.cn/*
 *://www.chusan.com/*
 *://www.cnblogs.com/*
 *://www.codenong.com/*
@@ -246,11 +249,14 @@
 *://www.lzbxgmjj.com/*
 *://www.maishuini.com/*
 *://www.manew.com/*
+*://www.mdeditor.tw/*
 *://www.mei521.com/*
+*://www.mi6fx.com/*
 *://www.moulin-larroque.com/*
 *://www.movervip.com/*
 *://www.mzgsmc.com/*
 *://www.nbyoho.com/*
+*://www.newcarinfosd.com/*
 *://www.nj118114.cn/*
 *://www.ok168198.com/*
 *://www.oneho.cn/*
@@ -262,6 +268,7 @@
 *://www.qu02.com/*
 *://www.right.com.cn/*
 *://www.sanye.cx/*
+*://www.sb2232.com/*
 *://www.shejiedu.com/*
 *://www.shufadashi.com/*
 *://www.shuzhiduo.com/*
@@ -279,6 +286,7 @@
 *://www.tspweb.com/*
 *://www.tty-1.net/*
 *://www.uoften.com/*
+*://www.urpimp.com/*
 *://www.uucan.cn/*
 *://www.voidcn.com/*
 *://www.vpsmm.com/*
@@ -295,6 +303,7 @@
 *://www.xiaozhishi.net/*
 *://www.xinhexinli.com/*
 *://www.xyj321.com/*
+*://www.yfwqnjh.com/*
 *://www.yijyi.com/*
 *://www.yisu.com/*
 *://www.ymw.cn/*
