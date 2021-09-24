@@ -97,6 +97,7 @@
 *://m.yisu.com/*
 *://m.yzlqzx.xyz/*
 *://m.zhuangku.com/*
+*://maguai.com/*
 *://mayphatmaynen.com/*
 *://meifa.izhufu.net/*
 *://mjzj.com/*
@@ -106,6 +107,7 @@
 *://natura-karite.com/*
 *://nbri.stephan-messling.de/*
 *://neutrikmall.com/*
+*://ni.cafegatto.com/*
 *://nzuan.net/*
 *://odde.felixmeier.de/*
 *://okoo.5watches.de/*
@@ -122,6 +124,7 @@
 *://qianruntai.com/*
 *://qiaofu66.blog.sohu.com/*
 *://qooqo.ru/*
+*://qzczd.com/*
 *://qzjlnm.com/*
 *://rohv.madame-creations.fr/*
 *://sabp.natural-born-schrubber.de/*
@@ -167,6 +170,7 @@
 *://www.1888generator.com/*
 *://www.23cpc.com/*
 *://www.2616.com.cn/*
+*://www.268583.com/*
 *://www.329329.com/*
 *://www.3333xbxb.com/*
 *://www.365jz.com/*
@@ -208,6 +212,7 @@
 *://www.bunian.cn/*
 *://www.buscodepto.com/*
 *://www.buythebestbuy.com/*
+*://www.byswq.com/*
 *://www.bzxfgj.com/*
 *://www.caogenbj.com/*
 *://www.cctsuzhou.cn/*
@@ -237,6 +242,7 @@
 *://www.drjordanmall.com/*
 *://www.e5a5x.com/*
 *://www.eddingmkt.com/*
+*://www.eeq8.com/*
 *://www.eternalcq.com/*
 *://www.fdzbfjc.com/*
 *://www.fengshouniao.cn/*
@@ -277,6 +283,7 @@
 *://www.lnmonet.com/*
 *://www.lzbxgmjj.com/*
 *://www.maishuini.com/*
+*://www.malonda.buzz/*
 *://www.mamaza.com/*
 *://www.manew.com/*
 *://www.mdeditor.tw/*
@@ -322,6 +329,7 @@
 *://www.uoften.com/*
 *://www.urpimp.com/*
 *://www.uucan.cn/*
+*://www.uwin100.com/*
 *://www.voidcn.com/*
 *://www.vpsmm.com/*
 *://www.vrzxwz.com/*
@@ -372,3 +380,4 @@
 *://zkjh.fieldball.de/*
 *://zlvj.signalhund.de/*
 *://zrsd.schorfheidecarport.de/*
+*://zzyyo.com/*
