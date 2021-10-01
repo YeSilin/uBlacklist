@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-// 通过两重循环过滤重复元素
+// RemoveRepeatedElement 通过两重循环过滤重复元素
 func RemoveRepeatedElement(arr []string) []string {
 	// 存放结果，空初始化比make定义要快
 	result := []string{}
@@ -34,7 +34,7 @@ func RemoveRepeatedElement(arr []string) []string {
 	return result
 }
 
-// 读取文件，返回字符串
+// ReadFile 读取文件，返回字符串
 func ReadFile(Path string) (result string, err error) {
 	// 只读方式打开文件
 	f, err1 := os.Open(Path)
@@ -66,7 +66,7 @@ func ReadFile(Path string) (result string, err error) {
 	return
 }
 
-// 创建文件并写入数据
+// CreateFile 创建文件并写入数据
 func CreateFile(path, data string) (err error) {
 	f, err := os.Create(path)
 	if err != nil {
@@ -84,7 +84,7 @@ func CreateFile(path, data string) (err error) {
 	return
 }
 
-// 备份文件，避免丢失
+// BackupFile 备份文件，避免丢失
 func BackupFile(dst, src string) (err error) {
 	// 源文件
 	fSrc, err := os.Open(src)
@@ -102,17 +102,19 @@ func BackupFile(dst, src string) (err error) {
 	}
 	defer fDst.Close()
 
+	// 开始复制
 	buf := make([]byte, 4096)
 	for {
 		n, err := fSrc.Read(buf)
-		if err != nil && err != io.EOF {
-			fmt.Println("f.Read err", err)
-			return  err
-		}
+		// 遇到结束标志就结束读取
 		if err == io.EOF {
 			break
 		}
-
+		// 不是结束标志且含有其他错误
+		if err != nil {
+			fmt.Println("f.Read err", err)
+			return err
+		}
 		// 读多少写多少
 		if _, err = fDst.Write(buf[:n]); err != nil {
 			return err
@@ -120,6 +122,9 @@ func BackupFile(dst, src string) (err error) {
 	}
 	return
 }
+
+
+
 
 func main() {
 	// 要更新去重的列表
@@ -134,6 +139,7 @@ func main() {
 		return
 	}
 
+	// 读取文件
 	str, err := ReadFile(path)
 	if err != nil {
 		fmt.Println("ReadFile err:", err)
@@ -162,4 +168,7 @@ func main() {
 	}
 
 	fmt.Println("更新去重成功！~")
+
+
 }
+
