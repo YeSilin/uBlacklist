@@ -39,7 +39,7 @@ func ReadFile(Path string) (result string, err error) {
 	// 只读方式打开文件
 	f, err1 := os.Open(Path)
 	if err1 != nil {
-		fmt.Println("os.Open err", err1)
+		fmt.Println("os.Open err: ", err1)
 		err = err1
 		return
 	}
@@ -51,7 +51,7 @@ func ReadFile(Path string) (result string, err error) {
 	for {
 		n, err2 := f.Read(buf)
 		if err2 != nil && err2 != io.EOF {
-			fmt.Println("f.Read err:", err2)
+			fmt.Println("f.Read err: ", err2)
 			err = err2
 			return
 		}
@@ -89,7 +89,7 @@ func BackupFile(dst, src string) (err error) {
 	// 源文件
 	fSrc, err := os.Open(src)
 	if err != nil {
-		fmt.Println("os.Open err:", err)
+		fmt.Println("os.Open err: ", err)
 		return
 	}
 	defer fSrc.Close()
@@ -97,7 +97,7 @@ func BackupFile(dst, src string) (err error) {
 	// 目标文件
 	fDst, err := os.Create(dst)
 	if err != nil {
-		fmt.Println("os.Create err:", err)
+		fmt.Println("os.Create err: ", err)
 		return
 	}
 	defer fDst.Close()
@@ -112,7 +112,7 @@ func BackupFile(dst, src string) (err error) {
 		}
 		// 不是结束标志且含有其他错误
 		if err != nil {
-			fmt.Println("f.Read err", err)
+			fmt.Println("fSrc.Read err: ", err)
 			return err
 		}
 		// 读多少写多少

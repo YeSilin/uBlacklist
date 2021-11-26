@@ -151,6 +151,8 @@
 *://m.isdngo.xyz/*
 *://m.jb51.net/*
 *://m.jianfeizhishiku.com/*
+*://m.jstianyun.com/*
+*://m.kaisha88.com/*
 *://m.mk369.com/*
 *://m.moxingyun.com/*
 *://m.mp3suck.com/*
@@ -261,6 +263,7 @@
 *://wncwebsolutions.com/*
 *://wsao.kerstinraphahn.de/*
 *://wthe.singende-wirte.de/*
+*://wtsearch.cc/*
 *://ww.106jsk.com/*
 *://ww1.wode6.com/*
 *://www.00004.org/*
@@ -274,6 +277,7 @@
 *://www.17qq.com/*
 *://www.18183.com/*
 *://www.1888generator.com/*
+*://www.218574.com/*
 *://www.235249.com/*
 *://www.23cpc.com/*
 *://www.2616.com.cn/*
@@ -385,6 +389,7 @@
 *://www.donnaspetcare.com/*
 *://www.drjordanmall.com/*
 *://www.e5a5x.com/*
+*://www.easyatm.com.tw/*
 *://www.eddingmkt.com/*
 *://www.eeq8.com/*
 *://www.eternalcq.com/*
@@ -401,6 +406,7 @@
 *://www.gdboxinda.com/*
 *://www.ghzssj.com/*
 *://www.glblkfw.com/*
+*://www.grfyw.com/*
 *://www.guzhifa.com/*
 *://www.gxbbm.com/*
 *://www.gxqxd.com/*
